@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TADM_LAB1-1-5</string>
+
+    <string-array name="estados">
+        <item>Resumed:\n una acitividad esta visible y activa</item>
+        <item>Paused:\n Esta visible pero sin el foco</item>
+        <item>Stoped:\n no visible</item>
+        <item>Inactived:\n Eliminado de la pila de tareas</item>
+    </string-array>
+
+</resources>
